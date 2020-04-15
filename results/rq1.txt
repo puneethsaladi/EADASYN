@@ -1,0 +1,80 @@
+data\ecoli-0-1-4-7_vs_5-6.dat
+F1 score on original dataset: 0.071
+F1 score on smote dataset: 0.2
+F1 score on borderline smote dataset: 0.223
+F1 score on svm smote dataset: 0.231
+F1 score on adasyn dataset: 0.208
+F1 score on eadasyn dataset: 0.242
+
+data\page-blocks0.dat
+F1 score on original dataset: 0.704
+F1 score on smote dataset: 0.77
+F1 score on borderline smote dataset: 0.727
+F1 score on svm smote dataset: 0.705
+F1 score on adasyn dataset: 0.643
+F1 score on eadasyn dataset: 0.747
+
+data\segment0.dat
+F1 score on original dataset: 0.985
+F1 score on smote dataset: 0.97
+F1 score on borderline smote dataset: 0.97
+F1 score on svm smote dataset: 1.0
+F1 score on adasyn dataset: 0.977
+F1 score on eadasyn dataset: 0.977
+
+data\winequality-white-3_vs_7.dat
+F1 score on original dataset: 0.5
+F1 score on smote dataset: 0.571
+F1 score on borderline smote dataset: 0.333
+F1 score on svm smote dataset: 0.444
+F1 score on adasyn dataset: 0.286
+F1 score on eadasyn dataset: 0.333
+
+data\wisconsin.dat
+F1 score on original dataset: 0.889
+F1 score on smote dataset: 0.867
+F1 score on borderline smote dataset: 0.901
+F1 score on svm smote dataset: 0.899
+F1 score on adasyn dataset: 0.901
+F1 score on eadasyn dataset: 0.926
+
+data\yeast-0-2-5-6_vs_3-7-8-9.dat
+F1 score on original dataset: 0.177
+F1 score on smote dataset: 0.13
+F1 score on borderline smote dataset: 0.22
+F1 score on svm smote dataset: 0.146
+F1 score on adasyn dataset: 0.187
+F1 score on eadasyn dataset: 0.23
+
+data\yeast-1-4-5-8_vs_7.dat
+F1 score on original dataset: 0.133
+F1 score on smote dataset: 0.182
+F1 score on borderline smote dataset: 0.105
+F1 score on svm smote dataset: 0.17
+F1 score on adasyn dataset: 0.171
+F1 score on eadasyn dataset: 0.2
+
+data\yeast-2_vs_4.dat
+F1 score on original dataset: 0.7
+F1 score on smote dataset: 0.609
+F1 score on borderline smote dataset: 0.714
+F1 score on svm smote dataset: 0.769
+F1 score on adasyn dataset: 0.667
+F1 score on eadasyn dataset: 0.727
+
+data\yeast-2_vs_8.dat
+F1 score on original dataset: 0.5
+F1 score on smote dataset: 0.4
+F1 score on borderline smote dataset: 0.308
+F1 score on svm smote dataset: 0.4
+F1 score on adasyn dataset: 0.4
+F1 score on eadasyn dataset: 0.5
+
+data\yeast5.dat
+F1 score on original dataset: 0.7
+F1 score on smote dataset: 0.571
+F1 score on borderline smote dataset: 0.6
+F1 score on svm smote dataset: 0.583
+F1 score on adasyn dataset: 0.571
+F1 score on eadasyn dataset: 0.6
+

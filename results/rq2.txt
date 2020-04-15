@@ -1,0 +1,70 @@
+data\ecoli-0-1-4-7_vs_5-6.dat
+F1 score using accuracy as fitness measure: 0.286
+F1 score using precision as fitness measure: 0.13
+F1 score using recall as fitness measure: 0.278
+F1 score using f1 as fitness measure: 0.125
+F1 score using roc_auc as fitness measure: 0.256
+
+data\page-blocks0.dat
+F1 score using accuracy as fitness measure: 0.692
+F1 score using precision as fitness measure: 0.64
+F1 score using recall as fitness measure: 0.627
+F1 score using f1 as fitness measure: 0.647
+F1 score using roc_auc as fitness measure: 0.669
+
+data\segment0.dat
+F1 score using accuracy as fitness measure: 0.97
+F1 score using precision as fitness measure: 0.97
+F1 score using recall as fitness measure: 0.97
+F1 score using f1 as fitness measure: 0.97
+F1 score using roc_auc as fitness measure: 0.97
+
+data\winequality-white-3_vs_7.dat
+F1 score using accuracy as fitness measure: 0.333
+F1 score using precision as fitness measure: 0.667
+F1 score using recall as fitness measure: 0.667
+F1 score using f1 as fitness measure: 0.333
+F1 score using roc_auc as fitness measure: 0.4
+
+data\wisconsin.dat
+F1 score using accuracy as fitness measure: 0.899
+F1 score using precision as fitness measure: 0.901
+F1 score using recall as fitness measure: 0.891
+F1 score using f1 as fitness measure: 0.935
+F1 score using roc_auc as fitness measure: 0.935
+
+data\yeast-0-2-5-6_vs_3-7-8-9.dat
+F1 score using accuracy as fitness measure: 0.168
+F1 score using precision as fitness measure: 0.13
+F1 score using recall as fitness measure: 0.207
+F1 score using f1 as fitness measure: 0.222
+F1 score using roc_auc as fitness measure: 0.214
+
+data\yeast-1-4-5-8_vs_7.dat
+F1 score using accuracy as fitness measure: 0.167
+F1 score using precision as fitness measure: 0.083
+F1 score using recall as fitness measure: 0.182
+F1 score using f1 as fitness measure: 0.222
+F1 score using roc_auc as fitness measure: 0.2
+
+data\yeast-2_vs_4.dat
+F1 score using accuracy as fitness measure: 0.636
+F1 score using precision as fitness measure: 0.741
+F1 score using recall as fitness measure: 0.7
+F1 score using f1 as fitness measure: 0.667
+F1 score using roc_auc as fitness measure: 0.741
+
+data\yeast-2_vs_8.dat
+F1 score using accuracy as fitness measure: 0.4
+F1 score using precision as fitness measure: 0.364
+F1 score using recall as fitness measure: 0.4
+F1 score using f1 as fitness measure: 0.4
+F1 score using roc_auc as fitness measure: 0.4
+
+data\yeast5.dat
+F1 score using accuracy as fitness measure: 0.571
+F1 score using precision as fitness measure: 0.6
+F1 score using recall as fitness measure: 0.571
+F1 score using f1 as fitness measure: 0.526
+F1 score using roc_auc as fitness measure: 0.571
+
