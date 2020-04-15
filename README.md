@@ -1,6 +1,6 @@
 <h2> Enhanced Adaptive Synthetic (EADASYN) </h2>
 
-<p> This code is part of my project for the course of [CS 686] Artificial Intelligence.
+<p> This code is part of my project for the course [CS 686] Artificial Intelligence.
 
 <p> The datasets in the <i>data</i> folder have been downloaded from https://sci2s.ugr.es/keel/datasets.php. The header information has been removed from each dataset.
 
